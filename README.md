@@ -15,4 +15,4 @@
 * [Microsoft Edge.](https://www.microsoft.com/pt-br/edge)
 * [Node.js.](https://nodejs.org/)
 * [Notepad++.](https://notepad-plus-plus.org/)
-* [Visual Studio Code.]()
+* [Visual Studio Code.](https://code.visualstudio.com/)
