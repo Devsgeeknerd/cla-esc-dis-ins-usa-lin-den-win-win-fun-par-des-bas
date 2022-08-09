@@ -2,7 +2,9 @@
 
 ## Programas
 
-## IDES
+## IDEs
+
+## Navegadores
 
 * [Brackets.](https://www.brackets.io/)
 * [Chocolatey.](https://chocolatey.org/)
