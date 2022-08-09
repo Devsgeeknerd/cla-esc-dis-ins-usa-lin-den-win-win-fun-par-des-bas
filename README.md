@@ -11,4 +11,4 @@
 * [Git.](https://git-scm.com/)
 * [GitHub Desktop.](https://desktop.github.com/)
 * [Google Chrome.](https://www.google.com/chrome/)
-* [Insomnia.]()
+* [Insomnia.](https://insomnia.rest/)
