@@ -9,4 +9,4 @@
 * [DBeaver — Community Edition.](https://dbeaver.io/)
 * [Firefox.](https://www.mozilla.org/pt-BR/firefox/)
 * [Git.](https://git-scm.com/)
-* [GitHub Desktop.]()
+* [GitHub Desktop.](https://desktop.github.com/)
