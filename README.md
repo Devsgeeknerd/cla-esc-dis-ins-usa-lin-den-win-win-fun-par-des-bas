@@ -14,4 +14,4 @@
 * [Insomnia.](https://insomnia.rest/)
 * [Microsoft Edge.](https://www.microsoft.com/pt-br/edge)
 * [Node.js.](https://nodejs.org/)
-* [Notepad++.]()
+* [Notepad++.](https://notepad-plus-plus.org/)
