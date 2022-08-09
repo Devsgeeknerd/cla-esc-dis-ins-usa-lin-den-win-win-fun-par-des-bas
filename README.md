@@ -4,4 +4,4 @@
 
 * [Chocolatey.](https://chocolatey.org/)
 * [Chocolatey GUI.](https://chocolatey.org/packages/chocolatey-gui)
-* [Brackets.]()
+* [Brackets.](https://www.brackets.io/)
