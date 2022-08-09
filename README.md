@@ -6,7 +6,6 @@
 * [Chocolatey GUI.](https://chocolatey.org/packages/chocolatey-gui)
 * [Composer Setup.](https://getcomposer.org/download/)
 * [DBeaver — Community Edition.](https://dbeaver.io/)
-
 * [Git.](https://git-scm.com/)
 * [GitHub Desktop.](https://desktop.github.com/)
 * [Insomnia.](https://insomnia.rest/)
@@ -22,6 +21,6 @@
 
 ## Navegadores
 
-* [Microsoft Edge.](https://www.microsoft.com/pt-br/edge)
+* [Microsoft Edge.](https://www.microsoft.com/edge)
 * [Google Chrome.](https://www.google.com/chrome/)
 * [Firefox.](https://www.mozilla.org/pt-BR/firefox/)
