@@ -10,4 +10,5 @@
 * [Firefox.](https://www.mozilla.org/pt-BR/firefox/)
 * [Git.](https://git-scm.com/)
 * [GitHub Desktop.](https://desktop.github.com/)
-* [Google Chrome.]()
+* [Google Chrome.](https://www.google.com/chrome/)
+* [Insomnia.]()
