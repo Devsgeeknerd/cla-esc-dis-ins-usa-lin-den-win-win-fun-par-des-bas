@@ -4,9 +4,12 @@
 
 ## IDEs
 
+* [Brackets.](https://www.brackets.io/)
+* [Notepad++.](https://notepad-plus-plus.org/)
+* [Visual Studio Code.](https://code.visualstudio.com/)
+
 ## Navegadores
 
-* [Brackets.](https://www.brackets.io/)
 * [Chocolatey.](https://chocolatey.org/)
 * [Chocolatey GUI.](https://chocolatey.org/packages/chocolatey-gui)
 * [Composer Setup.](https://getcomposer.org/download/)
@@ -18,7 +21,6 @@
 * [Insomnia.](https://insomnia.rest/)
 * [Microsoft Edge.](https://www.microsoft.com/pt-br/edge)
 * [Node.js.](https://nodejs.org/)
-* [Notepad++.](https://notepad-plus-plus.org/)
-* [Visual Studio Code.](https://code.visualstudio.com/)
+
 * [Xampp.](https://www.apachefriends.org/pt_BR/xampp.html)
 * [WPS Office Free.](https://www.wps.cn/pt-br/wps-office-free.html)
