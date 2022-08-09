@@ -1,3 +1,5 @@
 # Coisas necessárias
 
 ## Programas
+
+* [Chocolatey.]()
