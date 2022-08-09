@@ -14,7 +14,7 @@
 * [Xampp.](https://www.apachefriends.org/pt_BR/xampp.html)
 * [WPS Office Free.](https://www.wps.cn/pt-br/wps-office-free.html)
 
-## IDEs
+## Editores
 
 * [Brackets.](https://www.brackets.io/)
 * [Notepad++.](https://notepad-plus-plus.org/)
