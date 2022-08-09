@@ -8,4 +8,4 @@
 * [Composer Setup.](https://getcomposer.org/download/)
 * [DBeaver — Community Edition.](https://dbeaver.io/)
 * [Firefox.](https://www.mozilla.org/pt-BR/firefox/)
-* [Git.]()
+* [Git.](https://git-scm.com/)
