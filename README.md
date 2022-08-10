@@ -9,7 +9,6 @@
 * [Git.](https://git-scm.com/)
 * [GitHub Desktop.](https://desktop.github.com/)
 * [Insomnia.](https://insomnia.rest/)
-* [Node.js.](https://nodejs.org/)
 * [Xampp.](https://www.apachefriends.org/pt_BR/xampp.html)
 * [WPS Office Free.](https://www.wps.cn/pt-br/wps-office-free.html)
 
