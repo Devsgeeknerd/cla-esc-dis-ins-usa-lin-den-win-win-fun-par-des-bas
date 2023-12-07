@@ -1,25 +1,23 @@
-# Coisas necessárias
+<!-- Título -->
+# Escolhendo a Distribuição e Instalando
 
-## Programas
+***Conteúdo da Aula:***
 
-* [Chocolatey.](https://chocolatey.org/)
-* [Chocolatey GUI.](https://chocolatey.org/packages/chocolatey-gui)
-* [Composer Setup.](https://getcomposer.org/download/)
-* [DBeaver — Community Edition.](https://dbeaver.io/)
-* [Git.](https://git-scm.com/)
-* [GitHub Desktop.](https://desktop.github.com/)
-* [Insomnia.](https://insomnia.rest/)
-* [Xampp.](https://www.apachefriends.org/pt_BR/xampp.html)
-* [WPS Office Free.](https://www.wps.cn/pt-br/wps-office-free.html)
+Aula teórica.
 
-## Editores
+<!-- Informações -->
+## &#8505; Informações
 
-* [Brackets.](https://www.brackets.io/)
-* [Notepad++.](https://notepad-plus-plus.org/)
-* [Visual Studio Code.](https://code.visualstudio.com/)
-
-## Navegadores
-
-* [Microsoft Edge.](https://www.microsoft.com/edge)
-* [Google Chrome.](https://www.google.com/chrome/)
-* [Firefox.](https://www.mozilla.org/pt-BR/firefox/)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-esc-dis-ins-usa-lin-den-win-win-fun-par-des-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
+&nbsp;
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-esc-dis-ins-usa-lin-den-win-win-fun-par-des-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-esc-dis-ins-usa-lin-den-win-win-fun-par-des-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
+&nbsp;
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-esc-dis-ins-usa-lin-den-win-win-fun-par-des-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+&nbsp;
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-esc-dis-ins-usa-lin-den-win-win-fun-par-des-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
+&nbsp;
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-esc-dis-ins-usa-lin-den-win-win-fun-par-des-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
